@@ -36,29 +36,31 @@ THEN I can save my initials and my score
 4) The below screenshots show the process the quizzer would go through to saving their initials and score and viewing the scores:-
 
 
-   
+##### <em>Start Quiz Section</em> 
+<br>
+    Click on the Start Quiz button will bring on the Javascript Questions and the Timer
 
 ![alt text](assets/images/screenshot1.png)
 
-  <dt>Start Quiz section - click on the Start Quiz button will bring on the Javascript Questions and the Timer</dt>  
-
+##### <em>Questions Section</em> 
+<br>
+    Where the quizzer will answer the questions by clicking on the selected choice
 
 ![alt text](assets/images/screenshot2.png)
 
-<dt>Questions section - Where the user or quizzer will answer the questions by clicking on selected choices.</dt> 
-    
+##### <em>Submit scores section</em>
+<br>
+    Where the quizzer can save their initials and scores    
     
 ![alt text](assets/images/screenshot3.png)
 
-<dt>Submit scores section - where the user or quizzer can save their initials and scores.</dt>    
-    
-
+##### <em>High scores section</em>
+ 
+    Where the quizzer can view their scores and can also decide to do the quiz to get better score or just clear the scores and quit.
 ![alt text](assets/images/screenshot4.png)
 
-<dt>High scores section - where the user can view their scores and can also decide to do the quiz to get better score or just clear the scores and quit.</dt>
 
-
-4) The layout is also responsive and caters for mobile, tablets and desktop.  I used three images for the background.
+5) The layout is also responsive and caters for mobile, tablets and desktop.  I used three images for the background.
 
 ## DEPLOYMENT
 
@@ -73,11 +75,11 @@ The URL of the functional, deployed application is :-
 https://stellalph.github.io/JS_CODE_QUIZ/
 
 
-#### REFERENCES (other)
+## REFERENCES (other)
 
-Google and Internet Explorer (Microsoft Edge) (My Best Friends)
+*Google and Internet Explorer (Microsoft Edge) (My Best Friends)
 <br>
-The materials from The Unit Ahead: Web APIs
+*The materials from The Unit Ahead: Web APIs
 
 
 
