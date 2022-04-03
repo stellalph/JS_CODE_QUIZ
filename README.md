@@ -74,7 +74,7 @@ https://stellalph.github.io/JS_CODE_QUIZ/
 ## REFERENCES (other)
 
 * Google and Internet Explorer (Microsoft Edge) (My Best Friends)
-<br>
+
 * The materials from The Unit Ahead: Web APIs
 
 
