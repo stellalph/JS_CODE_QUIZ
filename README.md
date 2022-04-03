@@ -36,26 +36,22 @@ THEN I can save my initials and my score
 4) The below screenshots show the process the quizzer would go through to saving their initials and score and viewing the scores:-
 
 
-##### <em>Start Quiz Section</em> 
-<br>
+#### <em>Start Quiz Section</em> 
     Click on the Start Quiz button will bring on the Javascript Questions and the Timer
 
 ![alt text](assets/images/screenshot1.png)
 
-##### <em>Questions Section</em> 
-<br>
+#### <em>Questions Section</em> 
     Where the quizzer will answer the questions by clicking on the selected choice
 
 ![alt text](assets/images/screenshot2.png)
 
-##### <em>Submit scores section</em>
-<br>
+#### <em>Submit scores section</em>
     Where the quizzer can save their initials and scores    
     
 ![alt text](assets/images/screenshot3.png)
 
-##### <em>High scores section</em>
- 
+#### <em>High scores section</em>
     Where the quizzer can view their scores and can also decide to do the quiz to get better score or just clear the scores and quit.
 ![alt text](assets/images/screenshot4.png)
 
@@ -77,9 +73,9 @@ https://stellalph.github.io/JS_CODE_QUIZ/
 
 ## REFERENCES (other)
 
-*Google and Internet Explorer (Microsoft Edge) (My Best Friends)
+* Google and Internet Explorer (Microsoft Edge) (My Best Friends)
 <br>
-*The materials from The Unit Ahead: Web APIs
+* The materials from The Unit Ahead: Web APIs
 
 
 
