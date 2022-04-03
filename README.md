@@ -28,6 +28,7 @@ THEN I can save my initials and my score
 2) Free images were obtained from :
 
     <ddt>https://unsplash.com/wallpapers/colors/yellow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText 
+    <br>
     to use as background image/color as the javascript file is yellow and this just represents that this is a testing site on Javascript fundamentals.</ddt>
 
 3) The Javascript questions were taken from Unit 03: JavaScript Technical Interview Questions(Assessment) located at GitLab.
@@ -35,21 +36,27 @@ THEN I can save my initials and my score
 4) The below screenshots show the process the quizzer would go through to saving their initials and score and viewing the scores:-
 
 
-    <dt>Start Quiz section - click on the Start Quiz button will bring on the Javascript Questions and the Timer</dt>
+   
 
 ![alt text](assets/images/screenshot1.png)
 
-    <dt>Questions section - Where the user or quizzer will answer the questions by clicking on selected choices.</dt> 
+  <dt>Start Quiz section - click on the Start Quiz button will bring on the Javascript Questions and the Timer</dt>  
+
 
 ![alt text](assets/images/screenshot2.png)
 
-    <dt>Submit scores section - where the user or quizzer can save their initials and scores.</dt>
+<dt>Questions section - Where the user or quizzer will answer the questions by clicking on selected choices.</dt> 
+    
     
 ![alt text](assets/images/screenshot3.png)
+
+<dt>Submit scores section - where the user or quizzer can save their initials and scores.</dt>    
     
-    <dt>High scores section - where the user can view their scores and can also decide to do the quiz to get better score or just clear the scores and quit.</dt>
 
 ![alt text](assets/images/screenshot4.png)
+
+<dt>High scores section - where the user can view their scores and can also decide to do the quiz to get better score or just clear the scores and quit.</dt>
+
 
 4) The layout is also responsive and caters for mobile, tablets and desktop.  I used three images for the background.
 
@@ -69,6 +76,7 @@ https://stellalph.github.io/JS_CODE_QUIZ/
 #### REFERENCES (other)
 
 Google and Internet Explorer (Microsoft Edge) (My Best Friends)
+<br>
 The materials from The Unit Ahead: Web APIs
 
 
