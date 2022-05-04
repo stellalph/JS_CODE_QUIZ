@@ -77,6 +77,12 @@ https://stellalph.github.io/JS_CODE_QUIZ/
 
 * The materials from The Unit Ahead: Web APIs
 
+## TECHNOLOGIES USED
+
+* HTML
+* CSS Bootstrap
+* Javascript
+
 
 
 
